@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @doctoraojoy
+- 👋 Hi, I’m Pengkun Jiao
 - 👀 I’m interested in computer vision
-- 🌱 I’m currently learning video classification
+- 🌱 I’m currently learning multi-label classification
 - 💞️ I’m looking to collaborate on emmmmmm whatever interesting.
 - 📫 How to reach me pengkunjiao0@gmail.com
 
