@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pengkun Jiao
 - 👀 I’m interested in computer vision
-- 🌱 I’m currently learning multi-label classification
-- 💞️ I’m looking to collaborate on emmmmmm whatever interesting.
+- 🌱 I’m currently a MS student at Fudan University.
+- 💞️ I’m looking to collaborate on emmmmmm whoever is interested.
 - 📫 How to reach me pengkunjiao0@gmail.com
 
 <!---
